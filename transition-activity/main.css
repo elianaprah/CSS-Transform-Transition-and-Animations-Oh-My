@@ -18,8 +18,10 @@ img {
 button {
   padding: 1em;
   margin: .2em;
+  background-color: ghostwhite;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  transition-duration: 2s
 }
 
 button:hover {
